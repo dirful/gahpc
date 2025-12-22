@@ -1,0 +1,59 @@
+[2025-12-06 15:03:35,772] [INFO] [data.dataset_builder] Building sequences...
+[2025-12-06 15:03:35,776] [INFO] [data.dataset_builder] Built 781 sequences.
+[2025-12-06 15:04:49,577] [INFO] [data.dataset_builder] Building sequences...
+[2025-12-06 15:04:49,581] [INFO] [data.dataset_builder] Built 781 sequences.
+[2025-12-06 18:32:59,999] [INFO] [data.dataset_builder] Building sequences...
+[2025-12-06 18:33:00,003] [INFO] [data.dataset_builder] Built 781 sequences.
+[2025-12-06 18:46:50,017] [INFO] [data.dataset_builder] Building sequences...
+[2025-12-06 18:46:50,020] [INFO] [data.dataset_builder] Built 781 sequences.
+[2025-12-06 18:48:48,931] [INFO] [data.dataset_builder] Building sequences...
+[2025-12-06 18:48:48,933] [INFO] [data.dataset_builder] Built 781 sequences.
+[2025-12-06 18:50:21,878] [INFO] [data.dataset_builder] Building sequences...
+[2025-12-06 18:50:21,881] [INFO] [data.dataset_builder] Built 781 sequences.
+[2025-12-06 19:22:57,179] [INFO] [data.dataset_builder] Building sequences...
+[2025-12-06 19:22:57,181] [INFO] [data.dataset_builder] Built 781 sequences.
+[2025-12-06 19:36:12,473] [INFO] [data.dataset_builder] Building sequences...
+[2025-12-06 19:36:12,476] [INFO] [data.dataset_builder] Built 781 sequences.
+[2025-12-06 20:36:44,604] [INFO] [data.dataset_builder] Building sequences...
+[2025-12-06 20:40:35,961] [INFO] [data.dataset_builder] Building sequences...
+[2025-12-06 20:41:43,005] [INFO] [data.dataset_builder] Building sequences...
+[2025-12-06 20:46:03,785] [INFO] [data.dataset_builder] 检测到特征类型: task
+[2025-12-06 20:46:03,785] [WARNING] [data.dataset_builder] 缺失特征: ['cpu', 'mem', 'disk_io']，将用0填充
+[2025-12-06 20:46:03,798] [INFO] [data.dataset_builder] 构建序列形状: (2500, 4)
+[2025-12-06 20:51:11,664] [WARNING] [data.dataset_builder] 缺失特征列: ['cpu_mean', 'cpu_std', 'cpu_max', 'cpu_95th', 'mem_mean', 'mem_std', 'mem_max', 'machines_count', 'task_count', 'duration_sec', 'cpu_intensity', 'mem_intensity', 'task_density', 'cpu_cv', 'mem_cv']
+[2025-12-06 20:51:11,668] [INFO] [data.dataset_builder] 非序列数据: (2500, 15)
+[2025-12-06 21:00:21,130] [INFO] [data.dataset_builder] 非序列数据: (2500, 15)
+[2025-12-06 21:08:52,621] [INFO] [data.dataset_builder] 非序列数据: (2500, 15)
+[2025-12-06 21:40:24,691] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 21:50:40,106] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 21:54:43,567] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 22:01:10,684] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 22:25:54,428] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 22:35:48,635] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 22:50:45,129] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 22:55:45,162] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 23:03:45,615] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 23:07:44,563] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 23:12:58,308] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 23:16:45,383] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 23:23:54,470] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 23:29:22,464] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 23:36:49,675] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 23:42:41,705] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-06 23:45:10,059] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 09:15:38,615] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 09:21:41,752] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 09:26:52,742] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 11:55:42,887] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 13:13:38,486] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 13:52:32,794] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 14:05:03,419] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 14:12:00,064] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 14:22:48,238] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 16:05:27,952] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 16:51:13,445] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 17:08:10,009] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 17:15:46,297] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-07 18:53:31,400] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-08 19:35:08,227] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)
+[2025-12-08 20:18:47,749] [INFO] [data.dataset_builder] 非序列数据: (2500, 15) -> (2500, 1, 15)

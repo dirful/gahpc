@@ -1,0 +1,149 @@
+[2025-12-06 19:36:39,657] [ERROR] [llm.llm_job_gen] LLM parse failed: name 'math' is not defined
+[2025-12-06 19:36:39,657] [INFO] [llm.llm_job_gen] Falling back to GAN samples.
+[2025-12-06 20:46:26,627] [ERROR] [llm.llm_job_gen] LLM parse failed: name 'math' is not defined
+[2025-12-06 20:46:26,628] [INFO] [llm.llm_job_gen] Falling back to GAN samples.
+[2025-12-06 20:51:33,631] [ERROR] [llm.llm_job_gen] LLM parse failed: name 'math' is not defined
+[2025-12-06 20:51:33,631] [INFO] [llm.llm_job_gen] Falling back to GAN samples.
+[2025-12-06 21:00:52,817] [ERROR] [llm.llm_job_gen] LLM parse failed: name 'math' is not defined
+[2025-12-06 21:00:52,828] [INFO] [llm.llm_job_gen] Falling back to GAN samples.
+[2025-12-06 21:09:24,491] [ERROR] [llm.llm_job_gen] Job validation failed: name 'math' is not defined
+[2025-12-06 21:09:24,491] [INFO] [llm.llm_job_gen] Generated 3 jobs via LLM
+[2025-12-06 21:51:06,781] [ERROR] [llm.llm_job_gen] Job validation failed: name 'math' is not defined
+[2025-12-06 21:51:06,781] [INFO] [llm.llm_job_gen] Generated 3 jobs via LLM
+[2025-12-06 21:55:05,518] [ERROR] [llm.llm_job_gen] Job validation failed: name 'math' is not defined
+[2025-12-06 21:55:05,518] [INFO] [llm.llm_job_gen] Generated 3 jobs via LLM
+[2025-12-06 22:01:38,074] [ERROR] [llm.llm_job_gen] Job validation failed: name 'math' is not defined
+[2025-12-06 22:01:38,075] [INFO] [llm.llm_job_gen] Generated 3 jobs via LLM
+[2025-12-06 22:36:14,745] [ERROR] [llm.llm_job_gen] Job validation failed: name 'math' is not defined
+[2025-12-06 22:36:14,745] [INFO] [llm.llm_job_gen] Generated 3 jobs via LLM
+[2025-12-06 22:50:47,434] [INFO] [llm.llm_job_gen] LLM提示长度: 1618
+[2025-12-06 22:55:46,901] [INFO] [llm.llm_job_gen] LLM提示长度: 1618
+[2025-12-06 23:03:47,361] [INFO] [llm.llm_job_gen] LLM提示长度: 1618
+[2025-12-06 23:04:03,531] [ERROR] [llm.llm_job_gen] 作业验证失败: name 'math' is not defined
+[2025-12-06 23:04:03,531] [INFO] [llm.llm_job_gen] 最终生成 3 个作业
+[2025-12-06 23:04:03,531] [INFO] [llm.llm_job_gen]   作业1: cpu=0.27, mem=0.67, duration=720s
+[2025-12-06 23:04:03,531] [INFO] [llm.llm_job_gen]   作业2: cpu=0.23, mem=0.43, duration=1491s
+[2025-12-06 23:04:03,531] [INFO] [llm.llm_job_gen]   作业3: cpu=0.27, mem=0.79, duration=1530s
+[2025-12-06 23:07:46,326] [INFO] [llm.llm_job_gen] LLM提示长度: 1618
+[2025-12-06 23:07:57,924] [ERROR] [llm.llm_job_gen] 作业验证失败: name 'math' is not defined
+[2025-12-06 23:07:57,924] [INFO] [llm.llm_job_gen] 最终生成 3 个作业
+[2025-12-06 23:07:57,924] [INFO] [llm.llm_job_gen]   作业1: cpu=0.28, mem=0.58, duration=190s
+[2025-12-06 23:07:57,925] [INFO] [llm.llm_job_gen]   作业2: cpu=0.72, mem=0.37, duration=617s
+[2025-12-06 23:07:57,925] [INFO] [llm.llm_job_gen]   作业3: cpu=0.38, mem=0.38, duration=222s
+[2025-12-06 23:13:00,181] [INFO] [llm.llm_job_gen] LLM提示长度: 1618
+[2025-12-06 23:13:16,562] [ERROR] [llm.llm_job_gen] 作业验证失败: name 'math' is not defined
+[2025-12-06 23:13:16,562] [INFO] [llm.llm_job_gen] 最终生成 3 个作业
+[2025-12-06 23:13:16,562] [INFO] [llm.llm_job_gen]   作业1: cpu=0.34, mem=0.36, duration=687s
+[2025-12-06 23:13:16,562] [INFO] [llm.llm_job_gen]   作业2: cpu=0.25, mem=0.35, duration=1244s
+[2025-12-06 23:13:16,562] [INFO] [llm.llm_job_gen]   作业3: cpu=0.68, mem=0.46, duration=685s
+[2025-12-06 23:16:47,151] [INFO] [llm.llm_job_gen] LLM提示长度: 1618
+[2025-12-06 23:16:59,058] [ERROR] [llm.llm_job_gen] 作业验证失败: name 'math' is not defined
+[2025-12-06 23:16:59,059] [INFO] [llm.llm_job_gen] 最终生成 3 个作业
+[2025-12-06 23:16:59,059] [INFO] [llm.llm_job_gen]   作业1: cpu=0.68, mem=0.54, duration=1099s
+[2025-12-06 23:16:59,059] [INFO] [llm.llm_job_gen]   作业2: cpu=0.21, mem=0.24, duration=864s
+[2025-12-06 23:16:59,059] [INFO] [llm.llm_job_gen]   作业3: cpu=0.28, mem=0.44, duration=762s
+[2025-12-06 23:23:56,333] [INFO] [llm.llm_job_gen] LLM提示长度: 1619
+[2025-12-06 23:24:12,573] [ERROR] [llm.llm_job_gen] 作业验证失败: name 'math' is not defined
+[2025-12-06 23:24:12,573] [INFO] [llm.llm_job_gen] 最终生成 3 个作业
+[2025-12-06 23:24:12,573] [INFO] [llm.llm_job_gen]   作业1: cpu=0.33, mem=0.22, duration=230s
+[2025-12-06 23:24:12,573] [INFO] [llm.llm_job_gen]   作业2: cpu=0.61, mem=0.41, duration=1031s
+[2025-12-06 23:24:12,573] [INFO] [llm.llm_job_gen]   作业3: cpu=0.37, mem=0.77, duration=1159s
+[2025-12-06 23:29:24,256] [INFO] [llm.llm_job_gen] LLM提示长度: 1619
+[2025-12-06 23:29:49,244] [ERROR] [llm.llm_job_gen] 作业验证失败: name 'math' is not defined
+[2025-12-06 23:29:49,245] [INFO] [llm.llm_job_gen] 最终生成 3 个作业
+[2025-12-06 23:29:49,245] [INFO] [llm.llm_job_gen]   作业1: cpu=0.21, mem=0.38, duration=673s
+[2025-12-06 23:29:49,245] [INFO] [llm.llm_job_gen]   作业2: cpu=0.57, mem=0.27, duration=946s
+[2025-12-06 23:29:49,245] [INFO] [llm.llm_job_gen]   作业3: cpu=0.33, mem=0.60, duration=1564s
+[2025-12-06 23:36:51,557] [INFO] [llm.llm_job_gen] LLM提示长度: 1619
+[2025-12-06 23:37:07,642] [ERROR] [llm.llm_job_gen] 作业验证失败: name 'math' is not defined
+[2025-12-06 23:37:07,642] [INFO] [llm.llm_job_gen] 最终生成 3 个作业
+[2025-12-06 23:37:07,642] [INFO] [llm.llm_job_gen]   作业1: cpu=0.25, mem=0.44, duration=1161s
+[2025-12-06 23:37:07,642] [INFO] [llm.llm_job_gen]   作业2: cpu=0.68, mem=0.63, duration=1723s
+[2025-12-06 23:37:07,642] [INFO] [llm.llm_job_gen]   作业3: cpu=0.34, mem=0.27, duration=786s
+[2025-12-06 23:42:43,525] [INFO] [llm.llm_job_gen] LLM提示长度: 1619
+[2025-12-06 23:43:00,068] [ERROR] [llm.llm_job_gen] 作业验证失败: name 'math' is not defined
+[2025-12-06 23:43:00,068] [INFO] [llm.llm_job_gen] 最终生成 3 个作业
+[2025-12-06 23:43:00,068] [INFO] [llm.llm_job_gen]   作业1: cpu=0.66, mem=0.32, duration=772s
+[2025-12-06 23:43:00,068] [INFO] [llm.llm_job_gen]   作业2: cpu=0.56, mem=0.63, duration=1360s
+[2025-12-06 23:43:00,068] [INFO] [llm.llm_job_gen]   作业3: cpu=0.57, mem=0.53, duration=945s
+[2025-12-06 23:45:11,836] [INFO] [llm.llm_job_gen] LLM提示长度: 1621
+[2025-12-06 23:46:02,822] [ERROR] [llm.llm_job_gen] 解析失败: No JSON array found
+[2025-12-06 23:46:02,822] [WARNING] [llm.llm_job_gen] LLM解析失败或数量不对，期望30个，得到0个
+[2025-12-06 23:46:02,823] [INFO] [llm.llm_job_gen] 基于统计信息生成了 30 个作业
+[2025-12-06 23:46:02,823] [ERROR] [llm.llm_job_gen] 作业验证失败: name 'math' is not defined
+[2025-12-06 23:46:02,824] [INFO] [llm.llm_job_gen] 最终生成 30 个作业
+[2025-12-06 23:46:02,824] [INFO] [llm.llm_job_gen]   作业1: cpu=0.49, mem=0.44, duration=1080s
+[2025-12-06 23:46:02,824] [INFO] [llm.llm_job_gen]   作业2: cpu=0.59, mem=0.52, duration=211s
+[2025-12-06 23:46:02,824] [INFO] [llm.llm_job_gen]   作业3: cpu=0.46, mem=0.21, duration=1013s
+[2025-12-07 09:15:40,786] [INFO] [llm.llm_job_gen] LLM提示长度: 1621
+[2025-12-07 09:16:27,978] [ERROR] [llm.llm_job_gen] 解析失败: No JSON array found
+[2025-12-07 09:16:27,978] [WARNING] [llm.llm_job_gen] LLM解析失败或数量不对，期望30个，得到0个
+[2025-12-07 09:16:27,990] [INFO] [llm.llm_job_gen] 基于统计信息生成了 30 个作业
+[2025-12-07 09:16:27,991] [ERROR] [llm.llm_job_gen] 作业验证失败: name 'math' is not defined
+[2025-12-07 09:16:27,991] [INFO] [llm.llm_job_gen] 最终生成 30 个作业
+[2025-12-07 09:16:27,991] [INFO] [llm.llm_job_gen]   作业1: cpu=0.52, mem=0.61, duration=292s
+[2025-12-07 09:16:27,991] [INFO] [llm.llm_job_gen]   作业2: cpu=0.54, mem=0.33, duration=1376s
+[2025-12-07 09:16:27,991] [INFO] [llm.llm_job_gen]   作业3: cpu=0.70, mem=0.59, duration=606s
+[2025-12-07 09:21:43,837] [INFO] [llm.llm_job_gen] LLM提示长度: 1625
+[2025-12-07 09:22:30,110] [WARNING] [llm.llm_job_gen] LLM解析失败或数量不对，期望5000个，得到11个
+[2025-12-07 09:22:30,305] [INFO] [llm.llm_job_gen] 基于统计信息生成了 5000 个作业
+[2025-12-07 09:22:30,412] [ERROR] [llm.llm_job_gen] 作业验证失败: name 'math' is not defined
+[2025-12-07 09:22:30,439] [INFO] [llm.llm_job_gen] 最终生成 5000 个作业
+[2025-12-07 09:22:30,440] [INFO] [llm.llm_job_gen]   作业1: cpu=0.45, mem=0.69, duration=555s
+[2025-12-07 09:22:30,440] [INFO] [llm.llm_job_gen]   作业2: cpu=0.47, mem=0.51, duration=61s
+[2025-12-07 09:22:30,441] [INFO] [llm.llm_job_gen]   作业3: cpu=0.76, mem=0.63, duration=249s
+[2025-12-07 09:26:54,377] [INFO] [llm.llm_job_gen] LLM提示长度: 1623
+[2025-12-07 09:27:42,555] [ERROR] [llm.llm_job_gen] 解析失败: No JSON array found
+[2025-12-07 09:27:42,555] [WARNING] [llm.llm_job_gen] LLM解析失败或数量不对，期望100个，得到0个
+[2025-12-07 09:27:42,558] [INFO] [llm.llm_job_gen] 基于统计信息生成了 100 个作业
+[2025-12-07 09:27:42,558] [ERROR] [llm.llm_job_gen] 作业验证失败: name 'math' is not defined
+[2025-12-07 09:27:42,560] [INFO] [llm.llm_job_gen] 最终生成 100 个作业
+[2025-12-07 09:27:42,560] [INFO] [llm.llm_job_gen]   作业1: cpu=0.30, mem=0.27, duration=933s
+[2025-12-07 09:27:42,560] [INFO] [llm.llm_job_gen]   作业2: cpu=0.43, mem=0.69, duration=307s
+[2025-12-07 09:27:42,560] [INFO] [llm.llm_job_gen]   作业3: cpu=0.44, mem=0.66, duration=860s
+[2025-12-07 11:55:45,128] [INFO] [llm.llm_job_gen] LLM提示长度: 1623
+[2025-12-07 11:57:59,599] [ERROR] [llm.llm_job_gen] 解析失败: No JSON array found
+[2025-12-07 11:57:59,599] [WARNING] [llm.llm_job_gen] LLM解析失败或数量不对，期望100个，得到0个
+[2025-12-07 11:57:59,603] [INFO] [llm.llm_job_gen] 基于统计信息生成了 100 个作业
+[2025-12-07 11:57:59,604] [ERROR] [llm.llm_job_gen] 作业验证失败: name 'math' is not defined
+[2025-12-07 11:57:59,605] [INFO] [llm.llm_job_gen] 最终生成 100 个作业
+[2025-12-07 11:57:59,605] [INFO] [llm.llm_job_gen]   作业1: cpu=0.71, mem=0.23, duration=139s
+[2025-12-07 11:57:59,605] [INFO] [llm.llm_job_gen]   作业2: cpu=0.22, mem=0.77, duration=1092s
+[2025-12-07 11:57:59,605] [INFO] [llm.llm_job_gen]   作业3: cpu=0.65, mem=0.46, duration=1426s
+[2025-12-07 13:14:13,909] [INFO] [llm.llm_job_gen] LLM prompt length: 1590
+[2025-12-07 13:28:10,242] [WARNING] [llm.llm_job_gen] Safe parse failed: No JSON array found
+[2025-12-07 13:28:10,242] [WARNING] [llm.llm_job_gen] LLM parse failed or count mismatch: expected 100, got 0
+[2025-12-07 13:28:10,249] [INFO] [llm.llm_job_gen] Generated from stats fallback
+[2025-12-07 13:28:10,250] [ERROR] [llm.llm_job_gen] validate_and_fix_jobs failed: name 'math' is not defined
+[2025-12-07 13:52:35,790] [INFO] [llm.llm_job_gen] LLM prompt length: 1590
+[2025-12-07 13:54:24,994] [WARNING] [llm.llm_job_gen] Safe parse failed: No JSON array found
+[2025-12-07 13:54:24,995] [WARNING] [llm.llm_job_gen] LLM parse failed or count mismatch: expected 100, got 0
+[2025-12-07 13:54:24,997] [INFO] [llm.llm_job_gen] Generated from stats fallback
+[2025-12-07 13:54:24,998] [ERROR] [llm.llm_job_gen] validate_and_fix_jobs failed: name 'math' is not defined
+[2025-12-07 14:05:05,126] [INFO] [llm.llm_job_gen] LLM prompt length: 1590
+[2025-12-07 14:06:31,827] [WARNING] [llm.llm_job_gen] Safe parse failed: No JSON array found
+[2025-12-07 14:06:31,828] [WARNING] [llm.llm_job_gen] LLM parse failed or count mismatch: expected 100, got 0
+[2025-12-07 14:06:31,829] [INFO] [llm.llm_job_gen] Generated from stats fallback
+[2025-12-07 14:06:31,830] [ERROR] [llm.llm_job_gen] validate_and_fix_jobs failed: '>' not supported between instances of 'dict' and 'int'
+[2025-12-07 14:06:31,833] [INFO] [llm.llm_job_gen] Generated 100 jobs
+[2025-12-07 14:06:31,833] [INFO] [llm.llm_job_gen]  Job1: cpu=0.45, mem=0.58, dur=1616, sub=0
+[2025-12-07 14:06:31,833] [INFO] [llm.llm_job_gen]  Job2: cpu=1.00, mem=0.75, dur=8942, sub=5
+[2025-12-07 14:06:31,833] [INFO] [llm.llm_job_gen]  Job3: cpu=0.47, mem=0.32, dur=1548, sub=10
+[2025-12-07 14:12:01,837] [INFO] [llm.llm_job_gen] LLM prompt length: 1590
+[2025-12-07 14:13:08,229] [WARNING] [llm.llm_job_gen] Safe parse failed: No JSON array found
+[2025-12-07 14:13:08,229] [WARNING] [llm.llm_job_gen] LLM parse failed or count mismatch: expected 100, got 0
+[2025-12-07 14:13:08,231] [INFO] [llm.llm_job_gen] Generated from stats fallback
+[2025-12-07 14:13:08,232] [ERROR] [llm.llm_job_gen] validate_and_fix_jobs failed: '>' not supported between instances of 'dict' and 'float'
+[2025-12-07 14:13:08,234] [INFO] [llm.llm_job_gen] Generated 100 jobs
+[2025-12-07 14:13:08,234] [INFO] [llm.llm_job_gen]  Job1: cpu=0.93, mem=0.33, dur=72, sub=0
+[2025-12-07 14:13:08,234] [INFO] [llm.llm_job_gen]  Job2: cpu=0.50, mem=0.46, dur=2256, sub=5
+[2025-12-07 14:13:08,234] [INFO] [llm.llm_job_gen]  Job3: cpu=0.96, mem=0.38, dur=86, sub=10
+[2025-12-07 14:23:08,854] [INFO] [llm.llm_job_gen] LLM prompt length: 1590
+[2025-12-07 14:24:05,488] [WARNING] [llm.llm_job_gen] Safe parse failed: No JSON array found
+[2025-12-07 14:24:05,488] [WARNING] [llm.llm_job_gen] LLM parse failed or count mismatch: expected 100, got 0
+[2025-12-07 14:24:05,496] [INFO] [llm.llm_job_gen] Generated from stats fallback
+[2025-12-07 14:24:05,496] [ERROR] [llm.llm_job_gen] validate_and_fix_jobs failed: '>' not supported between instances of 'dict' and 'int'
+[2025-12-07 14:24:05,504] [INFO] [llm.llm_job_gen] Generated 100 jobs
+[2025-12-07 14:24:05,504] [INFO] [llm.llm_job_gen]  Job1: cpu=0.77, mem=0.69, dur=8885, sub=0
+[2025-12-07 14:24:05,505] [INFO] [llm.llm_job_gen]  Job2: cpu=0.55, mem=0.55, dur=1539, sub=5
+[2025-12-07 14:24:05,505] [INFO] [llm.llm_job_gen]  Job3: cpu=0.29, mem=0.86, dur=452, sub=10

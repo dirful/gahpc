@@ -1,0 +1,10 @@
+{
+"python.linting.enabled": true,
+"python.analysis.typeCheckingMode": "on",
+"python.analysis.autoImportCompletions": true,
+"python.analysis.indexing": true,
+"editor.formatOnSave": true,
+"editor.codeActionsOnSave": {
+"source.organizeImports": true
+}
+}

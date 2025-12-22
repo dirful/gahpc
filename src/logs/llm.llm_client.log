@@ -1,0 +1,68 @@
+[2025-12-06 19:36:14,221] [INFO] [llm.llm_client] [LLM] prompt length=2102
+[2025-12-06 20:46:05,911] [INFO] [llm.llm_client] [LLM] prompt length=1875
+[2025-12-06 20:51:13,573] [INFO] [llm.llm_client] [LLM] prompt length=1610
+[2025-12-06 21:00:22,902] [INFO] [llm.llm_client] [LLM] prompt length=3296
+[2025-12-06 21:08:54,599] [INFO] [llm.llm_client] [LLM] prompt length=3752
+[2025-12-06 21:50:41,929] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 21:50:41,930] [INFO] [llm.llm_client] [LLM] prompt length=5402
+[2025-12-06 21:54:45,361] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 21:54:45,362] [INFO] [llm.llm_client] [LLM] prompt length=5190
+[2025-12-06 22:01:12,576] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 22:01:12,577] [INFO] [llm.llm_client] [LLM] prompt length=5504
+[2025-12-06 22:25:57,177] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 22:35:50,913] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 22:35:50,915] [INFO] [llm.llm_client] [LLM] prompt length=3667
+[2025-12-06 22:50:47,433] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 22:50:47,434] [INFO] [llm.llm_client] [LLM] prompt length=1618
+[2025-12-06 22:55:46,901] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 22:55:46,902] [INFO] [llm.llm_client] [LLM] prompt length=1618
+[2025-12-06 23:03:47,360] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 23:03:47,361] [INFO] [llm.llm_client] [LLM] prompt length=1618
+[2025-12-06 23:07:46,326] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 23:07:46,326] [INFO] [llm.llm_client] [LLM] prompt length=1618
+[2025-12-06 23:13:00,180] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 23:13:00,181] [INFO] [llm.llm_client] [LLM] prompt length=1618
+[2025-12-06 23:16:47,151] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 23:16:47,152] [INFO] [llm.llm_client] [LLM] prompt length=1618
+[2025-12-06 23:23:56,333] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 23:23:56,333] [INFO] [llm.llm_client] [LLM] prompt length=1619
+[2025-12-06 23:29:24,255] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 23:29:24,256] [INFO] [llm.llm_client] [LLM] prompt length=1619
+[2025-12-06 23:36:51,556] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 23:36:51,557] [INFO] [llm.llm_client] [LLM] prompt length=1619
+[2025-12-06 23:42:43,525] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 23:42:43,526] [INFO] [llm.llm_client] [LLM] prompt length=1619
+[2025-12-06 23:45:11,836] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-06 23:45:11,836] [INFO] [llm.llm_client] [LLM] prompt length=1621
+[2025-12-07 09:15:40,783] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 09:15:40,786] [INFO] [llm.llm_client] [LLM] prompt length=1621
+[2025-12-07 09:21:43,837] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 09:21:43,837] [INFO] [llm.llm_client] [LLM] prompt length=1625
+[2025-12-07 09:26:54,376] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 09:26:54,377] [INFO] [llm.llm_client] [LLM] prompt length=1623
+[2025-12-07 11:55:45,128] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 11:55:45,128] [INFO] [llm.llm_client] [LLM] prompt length=1623
+[2025-12-07 13:14:13,909] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 13:14:13,910] [INFO] [llm.llm_client] [LLM] prompt length=1590
+[2025-12-07 13:52:35,790] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 13:52:35,790] [INFO] [llm.llm_client] [LLM] prompt length=1590
+[2025-12-07 14:05:05,125] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 14:05:05,126] [INFO] [llm.llm_client] [LLM] prompt length=1590
+[2025-12-07 14:12:01,837] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 14:12:01,838] [INFO] [llm.llm_client] [LLM] prompt length=1590
+[2025-12-07 14:23:08,853] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 14:23:08,854] [INFO] [llm.llm_client] [LLM] prompt length=1590
+[2025-12-07 16:05:31,153] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 16:05:31,154] [INFO] [llm.llm_client] [LLM] prompt length=1411
+[2025-12-07 16:51:15,210] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 16:51:15,211] [INFO] [llm.llm_client] [LLM] prompt length=2299
+[2025-12-07 17:08:11,745] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 17:08:11,746] [INFO] [llm.llm_client] [LLM] prompt length=2299
+[2025-12-07 17:15:51,917] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 17:15:51,920] [INFO] [llm.llm_client] [LLM] prompt length=2299
+[2025-12-07 18:53:33,373] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-07 18:53:33,374] [INFO] [llm.llm_client] [LLM] prompt length=2299
+[2025-12-08 19:35:11,672] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-08 19:35:11,683] [INFO] [llm.llm_client] [LLM] prompt length=2299
+[2025-12-08 20:18:53,474] [INFO] [llm.llm_client] LLMClient initialized: model=yxchia/qwen2.5-1.5b-instruct:Q8_0, host=http://localhost:11434
+[2025-12-08 20:18:53,475] [INFO] [llm.llm_client] [LLM] prompt length=2299

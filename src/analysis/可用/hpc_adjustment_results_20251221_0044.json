@@ -1,0 +1,14 @@
+{
+  "experiment_type": "offline_request_adjustment",
+  "adjustment_range": "\u00b110%",
+  "n_samples": 1000,
+  "improvement_rate": 0.967,
+  "avg_waste_improvement": 0.04327084847539663,
+  "avg_violation_improvement": 0.060134003069251776,
+  "total_waste_reduction": 43.27084847539663,
+  "total_violation_reduction": 60.134003069251776,
+  "avg_cpu_adjust_pct": 3.145573139190674,
+  "avg_mem_adjust_pct": -6.1952691078186035,
+  "rds_correlation_with_improvement": -0.10061960106123694,
+  "timestamp": "20251221_0044"
+}

@@ -1,0 +1,60 @@
+#################################
+# Core scientific computation
+#################################
+numpy>=1.26
+scipy>=1.11
+pandas>=2.2
+python-dateutil>=2.9
+joblib>=1.4
+orjson>=3.10
+
+#################################
+# Visualization
+#################################
+matplotlib>=3.8
+seaborn>=0.13
+tensorboard>=2.16
+rich>=13.7
+
+#################################
+# Machine Learning / Deep Learning
+#################################
+torch>=2.2
+pytorch-lightning>=2.2
+einops>=0.8
+tqdm>=4.66
+
+#################################
+# Reinforcement Learning (PPO)
+#################################
+gymnasium>=0.29
+gymnasium[classic-control]>=0.29
+stable-baselines3>=2.3.2
+
+#################################
+# LLM (OpenAI + HuggingFace)
+#################################
+openai>=1.55.0
+tiktoken>=0.7.0
+transformers>=4.40
+accelerate>=0.29
+sentencepiece>=0.2
+
+#################################
+# Optional local inference backend
+#################################
+llama-cpp-python>=0.2      # optional
+text-generation>=0.6       # optional for TGI clients
+
+#################################
+# Config, Logging, Utilities
+#################################
+pyyaml>=6.0
+black>=24.4
+isort>=5.1
+
+#################################
+# HPC-specific (optional)
+#################################
+psutil>=5.9        # for job/system monitoring
+plotly>=5.24        # for advanced visualizations

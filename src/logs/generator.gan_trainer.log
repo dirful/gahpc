@@ -1,0 +1,249 @@
+[2025-12-06 15:03:39,645] [INFO] [generator.gan_trainer] Training GAN...
+[2025-12-06 15:03:39,720] [INFO] [generator.gan_trainer] Epoch 0: D=1.5817, G=0.8475
+[2025-12-06 15:03:39,725] [INFO] [generator.gan_trainer] Epoch 1: D=1.5656, G=0.8394
+[2025-12-06 15:03:39,729] [INFO] [generator.gan_trainer] Epoch 2: D=1.5475, G=0.8403
+[2025-12-06 15:03:39,735] [INFO] [generator.gan_trainer] Epoch 3: D=1.5290, G=0.8478
+[2025-12-06 15:03:39,739] [INFO] [generator.gan_trainer] Epoch 4: D=1.5127, G=0.8405
+[2025-12-06 15:03:39,740] [INFO] [generator.gan_trainer] GAN training DONE.
+[2025-12-06 15:04:52,858] [INFO] [generator.gan_trainer] Training GAN...
+[2025-12-06 15:04:52,871] [INFO] [generator.gan_trainer] Epoch 0: D=3.6303, G=0.6800
+[2025-12-06 15:04:52,877] [INFO] [generator.gan_trainer] Epoch 1: D=3.6034, G=0.6786
+[2025-12-06 15:04:52,882] [INFO] [generator.gan_trainer] Epoch 2: D=3.5756, G=0.6822
+[2025-12-06 15:04:52,888] [INFO] [generator.gan_trainer] Epoch 3: D=3.5430, G=0.6758
+[2025-12-06 15:04:52,893] [INFO] [generator.gan_trainer] Epoch 4: D=3.5116, G=0.6765
+[2025-12-06 15:04:52,893] [INFO] [generator.gan_trainer] GAN training DONE.
+[2025-12-06 18:33:02,395] [INFO] [generator.gan_trainer] Training GAN...
+[2025-12-06 18:33:02,406] [INFO] [generator.gan_trainer] Epoch 0: D=2.2425, G=0.6952
+[2025-12-06 18:33:02,411] [INFO] [generator.gan_trainer] Epoch 1: D=2.2122, G=0.6943
+[2025-12-06 18:33:02,415] [INFO] [generator.gan_trainer] Epoch 2: D=2.1876, G=0.6933
+[2025-12-06 18:33:02,421] [INFO] [generator.gan_trainer] Epoch 3: D=2.1634, G=0.6973
+[2025-12-06 18:33:02,425] [INFO] [generator.gan_trainer] Epoch 4: D=2.1364, G=0.6893
+[2025-12-06 18:33:02,425] [INFO] [generator.gan_trainer] GAN training DONE.
+[2025-12-06 18:46:51,787] [INFO] [generator.gan_trainer] Training GAN...
+[2025-12-06 18:46:51,795] [INFO] [generator.gan_trainer] Epoch 0: D=1.2387, G=0.6941
+[2025-12-06 18:46:51,800] [INFO] [generator.gan_trainer] Epoch 1: D=1.2246, G=0.6875
+[2025-12-06 18:46:51,804] [INFO] [generator.gan_trainer] Epoch 2: D=1.2232, G=0.6954
+[2025-12-06 18:46:51,808] [INFO] [generator.gan_trainer] Epoch 3: D=1.1990, G=0.6846
+[2025-12-06 18:46:51,813] [INFO] [generator.gan_trainer] Epoch 4: D=1.1904, G=0.6943
+[2025-12-06 18:46:51,813] [INFO] [generator.gan_trainer] GAN training DONE.
+[2025-12-06 18:48:50,771] [INFO] [generator.gan_trainer] Training GAN...
+[2025-12-06 18:48:50,780] [INFO] [generator.gan_trainer] Epoch 0: D=2.0687, G=0.6751
+[2025-12-06 18:48:50,784] [INFO] [generator.gan_trainer] Epoch 1: D=2.0441, G=0.6761
+[2025-12-06 18:48:50,788] [INFO] [generator.gan_trainer] Epoch 2: D=2.0172, G=0.6762
+[2025-12-06 18:48:50,793] [INFO] [generator.gan_trainer] Epoch 3: D=1.9950, G=0.6756
+[2025-12-06 18:48:50,796] [INFO] [generator.gan_trainer] Epoch 4: D=1.9674, G=0.6731
+[2025-12-06 18:48:50,797] [INFO] [generator.gan_trainer] GAN training DONE.
+[2025-12-06 18:50:24,219] [INFO] [generator.gan_trainer] Training GAN...
+[2025-12-06 18:50:24,229] [INFO] [generator.gan_trainer] Epoch 0: D=2.9348, G=0.8019
+[2025-12-06 18:50:24,234] [INFO] [generator.gan_trainer] Epoch 1: D=2.8925, G=0.8071
+[2025-12-06 18:50:24,238] [INFO] [generator.gan_trainer] Epoch 2: D=2.8679, G=0.8072
+[2025-12-06 18:50:24,243] [INFO] [generator.gan_trainer] Epoch 3: D=2.8437, G=0.7995
+[2025-12-06 18:50:24,249] [INFO] [generator.gan_trainer] Epoch 4: D=2.8077, G=0.7942
+[2025-12-06 18:50:24,249] [INFO] [generator.gan_trainer] GAN training DONE.
+[2025-12-06 19:22:58,942] [INFO] [generator.gan_trainer] Training GAN...
+[2025-12-06 19:22:58,950] [INFO] [generator.gan_trainer] Epoch 0: D=1.2067, G=0.6720
+[2025-12-06 19:22:58,955] [INFO] [generator.gan_trainer] Epoch 1: D=1.1935, G=0.6720
+[2025-12-06 19:22:58,959] [INFO] [generator.gan_trainer] Epoch 2: D=1.1786, G=0.6731
+[2025-12-06 19:22:58,962] [INFO] [generator.gan_trainer] Epoch 3: D=1.1679, G=0.6686
+[2025-12-06 19:22:58,967] [INFO] [generator.gan_trainer] Epoch 4: D=1.1491, G=0.6684
+[2025-12-06 19:22:58,967] [INFO] [generator.gan_trainer] GAN training DONE.
+[2025-12-06 19:36:14,161] [INFO] [generator.gan_trainer] GAN train stub (you can implement full training).
+[2025-12-06 20:46:05,845] [INFO] [generator.gan_trainer] GAN train stub (you can implement full training).
+[2025-12-06 20:51:13,522] [INFO] [generator.gan_trainer] GAN train stub (you can implement full training).
+[2025-12-06 21:00:22,845] [INFO] [generator.gan_trainer] GAN train stub (you can implement full training).
+[2025-12-06 21:08:54,538] [INFO] [generator.gan_trainer] GAN train stub (you can implement full training).
+[2025-12-06 21:40:26,543] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 21:40:26,544] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 21:40:26,544] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 21:40:26,545] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 21:40:26,594] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3762, G_loss=0.6940
+[2025-12-06 21:40:26,611] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 21:50:41,845] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 21:50:41,845] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 21:50:41,845] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 21:50:41,846] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 21:50:41,855] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3801, G_loss=0.6845
+[2025-12-06 21:50:41,874] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 21:54:45,270] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 21:54:45,270] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 21:54:45,270] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 21:54:45,270] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 21:54:45,277] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3983, G_loss=0.6485
+[2025-12-06 21:54:45,294] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 22:01:12,484] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 22:01:12,484] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 22:01:12,484] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 22:01:12,484] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 22:01:12,494] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3927, G_loss=0.7180
+[2025-12-06 22:01:12,514] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 22:25:57,036] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 22:25:57,036] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 22:25:57,036] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 22:25:57,040] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 22:25:57,093] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3778, G_loss=0.7115
+[2025-12-06 22:25:57,111] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 22:35:50,795] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 22:35:50,795] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 22:35:50,795] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 22:35:50,795] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 22:35:50,809] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3880, G_loss=0.7156
+[2025-12-06 22:35:50,830] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 22:50:47,313] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 22:50:47,314] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 22:50:47,314] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 22:50:47,315] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 22:50:47,327] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3927, G_loss=0.7230
+[2025-12-06 22:50:47,350] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 22:55:46,812] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 22:55:46,812] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 22:55:46,812] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 22:55:46,813] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 22:55:46,822] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3733, G_loss=0.7158
+[2025-12-06 22:55:46,836] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 23:03:47,263] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 23:03:47,263] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 23:03:47,263] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 23:03:47,264] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 23:03:47,272] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3802, G_loss=0.7040
+[2025-12-06 23:03:47,289] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 23:07:46,227] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 23:07:46,227] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 23:07:46,227] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 23:07:46,227] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 23:07:46,238] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3883, G_loss=0.7326
+[2025-12-06 23:07:46,256] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 23:13:00,066] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 23:13:00,066] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 23:13:00,066] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 23:13:00,066] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 23:13:00,077] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3874, G_loss=0.7065
+[2025-12-06 23:13:00,099] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 23:16:47,045] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 23:16:47,045] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 23:16:47,045] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 23:16:47,045] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 23:16:47,056] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3841, G_loss=0.6353
+[2025-12-06 23:16:47,075] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 23:23:56,231] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 23:23:56,232] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 23:23:56,232] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 23:23:56,232] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 23:23:56,240] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3921, G_loss=0.7270
+[2025-12-06 23:23:56,260] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 23:29:24,170] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 23:29:24,170] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 23:29:24,171] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 23:29:24,171] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 23:29:24,180] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3866, G_loss=0.6678
+[2025-12-06 23:29:24,199] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 23:36:51,440] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 23:36:51,440] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 23:36:51,440] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 23:36:51,441] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 23:36:51,452] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3904, G_loss=0.6742
+[2025-12-06 23:36:51,474] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 23:42:43,422] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 23:42:43,422] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 23:42:43,422] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 23:42:43,422] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 23:42:43,433] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3886, G_loss=0.7197
+[2025-12-06 23:42:43,456] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-06 23:45:11,745] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-06 23:45:11,745] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-06 23:45:11,745] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-06 23:45:11,745] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-06 23:45:11,752] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3912, G_loss=0.6503
+[2025-12-06 23:45:11,774] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 09:15:40,636] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-07 09:15:40,637] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-07 09:15:40,637] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-07 09:15:40,644] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 09:15:40,696] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3866, G_loss=0.6904
+[2025-12-07 09:15:40,715] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 09:21:43,754] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-07 09:21:43,754] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-07 09:21:43,754] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-07 09:21:43,754] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 09:21:43,762] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3860, G_loss=0.7124
+[2025-12-07 09:21:43,777] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 09:26:54,282] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-07 09:26:54,284] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-07 09:26:54,284] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-07 09:26:54,284] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 09:26:54,291] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3872, G_loss=0.7220
+[2025-12-07 09:26:54,310] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 11:55:44,961] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-07 11:55:44,961] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-07 11:55:44,961] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-07 11:55:44,970] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 11:55:45,025] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3856, G_loss=0.6840
+[2025-12-07 11:55:45,045] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 13:14:09,714] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-07 13:14:09,715] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-07 13:14:09,715] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-07 13:14:09,716] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 13:14:10,807] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3919, G_loss=0.6595
+[2025-12-07 13:14:10,860] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 13:52:35,624] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-07 13:52:35,624] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-07 13:52:35,624] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-07 13:52:35,625] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 13:52:35,639] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3874, G_loss=0.6609
+[2025-12-07 13:52:35,666] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 14:05:05,018] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-07 14:05:05,020] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-07 14:05:05,020] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-07 14:05:05,020] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 14:05:05,028] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3800, G_loss=0.7073
+[2025-12-07 14:05:05,043] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 14:12:01,721] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-07 14:12:01,722] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-07 14:12:01,722] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-07 14:12:01,722] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 14:12:01,733] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3808, G_loss=0.7369
+[2025-12-07 14:12:01,752] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 14:23:08,496] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-07 14:23:08,497] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-07 14:23:08,497] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-07 14:23:08,498] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 14:23:08,523] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3855, G_loss=0.7271
+[2025-12-07 14:23:08,578] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 16:05:30,992] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-07 16:05:30,992] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-07 16:05:30,992] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-07 16:05:30,998] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 16:05:31,064] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3836, G_loss=0.6852
+[2025-12-07 16:05:31,081] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 16:51:15,106] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-07 16:51:15,107] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-07 16:51:15,107] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-07 16:51:15,107] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 16:51:15,116] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3894, G_loss=0.6792
+[2025-12-07 16:51:15,136] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 17:08:11,622] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-07 17:08:11,623] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-07 17:08:11,623] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-07 17:08:11,623] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 17:08:11,632] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3847, G_loss=0.6707
+[2025-12-07 17:08:11,648] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 17:15:51,616] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=4, device=cpu
+[2025-12-07 17:15:51,616] [WARNING] [generator.gan_trainer] 数据特征维度 15 与GAN输出维度 4 不匹配
+[2025-12-07 17:15:51,616] [INFO] [generator.gan_trainer] 截断数据到前 4 个特征
+[2025-12-07 17:15:51,617] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 17:15:51,644] [INFO] [generator.gan_trainer] Epoch 0: D_loss=1.3848, G_loss=0.6647
+[2025-12-07 17:15:51,699] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-07 18:53:31,400] [INFO] [generator.gan_trainer] GAN输出维度设置为: 15
+[2025-12-07 18:53:33,253] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=15, device=cpu
+[2025-12-07 18:53:33,255] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-07 18:53:33,266] [INFO] [generator.gan_trainer] Epoch 0: D_loss=3.7709, G_loss=0.7447
+[2025-12-07 18:53:33,283] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-08 19:35:08,228] [INFO] [generator.gan_trainer] GAN输出维度设置为: 15
+[2025-12-08 19:35:10,298] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=15, device=cpu
+[2025-12-08 19:35:10,300] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-08 19:35:10,323] [INFO] [generator.gan_trainer] Epoch 0: D_loss=0.7563, G_loss=0.6353
+[2025-12-08 19:35:10,343] [INFO] [generator.gan_trainer] GAN训练完成
+[2025-12-08 20:18:47,749] [INFO] [generator.gan_trainer] GAN输出维度设置为: 15
+[2025-12-08 20:18:50,439] [INFO] [generator.gan_trainer] GAN初始化: latent_dim=64, out_dim=15, device=cpu
+[2025-12-08 20:18:50,441] [INFO] [generator.gan_trainer] 开始GAN训练: 2500 样本, 5 轮次
+[2025-12-08 20:18:50,456] [INFO] [generator.gan_trainer] Epoch 0: D_loss=0.7332, G_loss=0.6562
+[2025-12-08 20:18:50,485] [INFO] [generator.gan_trainer] GAN训练完成

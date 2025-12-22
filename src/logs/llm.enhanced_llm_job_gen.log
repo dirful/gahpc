@@ -1,0 +1,27 @@
+[2025-12-07 16:51:15,211] [INFO] [llm.enhanced_llm_job_gen] 使用LLM生成100个job-level特征...
+[2025-12-07 16:51:24,239] [WARNING] [llm.enhanced_llm_job_gen] LLM解析失败或数量不足(0/100)，使用后备方法
+[2025-12-07 16:51:24,239] [INFO] [llm.enhanced_llm_job_gen] 使用统计驱动的后备方法生成job-level特征
+[2025-12-07 16:51:24,263] [INFO] [llm.enhanced_llm_job_gen] 成功生成 100 个job-level特征
+[2025-12-07 17:08:11,746] [INFO] [llm.enhanced_llm_job_gen] 使用LLM生成100个job-level特征...
+[2025-12-07 17:08:17,115] [WARNING] [llm.enhanced_llm_job_gen] LLM解析失败或数量不足(0/100)，使用后备方法
+[2025-12-07 17:08:17,126] [INFO] [llm.enhanced_llm_job_gen] 使用统计驱动的后备方法生成job-level特征
+[2025-12-07 17:08:17,147] [INFO] [llm.enhanced_llm_job_gen] 成功生成 100 个job-level特征
+[2025-12-07 17:15:51,917] [INFO] [llm.enhanced_llm_job_gen] 使用LLM生成100个job-level特征...
+[2025-12-07 17:21:39,528] [INFO] [llm.enhanced_llm_job_gen] 解析到单个对象，包装成列表
+[2025-12-07 17:21:39,529] [WARNING] [llm.enhanced_llm_job_gen] LLM解析失败或数量不足(1/100)，使用后备方法
+[2025-12-07 17:21:39,530] [INFO] [llm.enhanced_llm_job_gen] 使用统计驱动的后备方法生成job-level特征
+[2025-12-07 17:21:39,805] [INFO] [llm.enhanced_llm_job_gen] 成功生成 100 个job-level特征
+[2025-12-07 18:53:33,374] [INFO] [llm.enhanced_llm_job_gen] 使用LLM生成100个job-level特征...
+[2025-12-07 18:54:20,494] [INFO] [llm.enhanced_llm_job_gen] 解析到单个对象，包装成列表
+[2025-12-07 18:54:20,494] [WARNING] [llm.enhanced_llm_job_gen] LLM解析失败或数量不足(1/100)，使用后备方法
+[2025-12-07 18:54:20,494] [INFO] [llm.enhanced_llm_job_gen] 使用统计驱动的后备方法生成job-level特征
+[2025-12-07 18:54:20,522] [INFO] [llm.enhanced_llm_job_gen] 成功生成 100 个job-level特征
+[2025-12-08 19:35:11,683] [INFO] [llm.enhanced_llm_job_gen] 使用LLM生成100个job-level特征...
+[2025-12-08 19:35:21,144] [WARNING] [llm.enhanced_llm_job_gen] LLM解析失败或数量不足(0/100)，使用后备方法
+[2025-12-08 19:35:21,144] [INFO] [llm.enhanced_llm_job_gen] 使用统计驱动的后备方法生成job-level特征
+[2025-12-08 19:35:21,169] [INFO] [llm.enhanced_llm_job_gen] 成功生成 100 个job-level特征
+[2025-12-08 20:18:53,474] [INFO] [llm.enhanced_llm_job_gen] 使用LLM生成100个job-level特征...
+[2025-12-08 20:19:32,223] [INFO] [llm.enhanced_llm_job_gen] 成功解析 1 个job-level特征
+[2025-12-08 20:19:32,223] [WARNING] [llm.enhanced_llm_job_gen] LLM解析失败或数量不足(1/100)，使用后备方法
+[2025-12-08 20:19:32,223] [INFO] [llm.enhanced_llm_job_gen] 使用统计驱动的后备方法生成job-level特征
+[2025-12-08 20:19:32,276] [INFO] [llm.enhanced_llm_job_gen] 成功生成 100 个job-level特征
